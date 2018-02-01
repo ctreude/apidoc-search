@@ -1,0 +1,11 @@
+project,language,current version,current release,number of elements,number of unique elements,older version,previous release,number of recent elements,unique number of recent elements,current link,previous link
+Android,Java,v27,5-Dec-17,4231,4140,v26,21-Aug-17,20,18,https://developer.android.com/reference/classes.html,https://developer.android.com/reference/classes.html
+Guava,Java,v23.0,4-Aug-17,400,399,v22.0,22-May-17,3,3,https://google.github.io/guava/releases/23.0/api/docs/allclasses-noframe.html,https://google.github.io/guava/releases/22.0/api/docs/allclasses-noframe.html
+Hadoop,Java,v3.0.0,13-Dec-17,947,826,v2.7.4,4-Aug-17,172,172,https://hadoop.apache.org/docs/r3.0.0/api/allclasses-noframe.html,https://hadoop.apache.org/docs/r2.7.4/api/allclasses-noframe.html
+Java,Java,v9,21-Sep-17,6005,5693,v8,18-Mar-14,1589,1589,https://docs.oracle.com/javase/9/docs/api/allclasses-noframe.html,https://docs.oracle.com/javase/8/docs/api/allclasses-noframe.html
+jQuery,JavaScript,v3.2.1,21-Mar-17,298,296,v3.0,10-Jun-16,3,3,https://api.jquery.com/,https://api.jquery.com/category/version/3.1/ and https://api.jquery.com/category/version/3.0/
+JUnit,Java,v5.0.2,12-Nov-17,227,226,v4.12,5-Dec-14,224,224,http://junit.org/junit5/docs/current/api/allclasses-noframe.html,http://junit.org/junit4/javadoc/latest/allclasses-noframe.html
+Laravel,PHP,v5.5,30-Aug-17,760,675,v5.4,24-Jan-17,53,53,https://laravel.com/api/5.5/classes.html,https://laravel.com/api/5.4/classes.html
+Qt,C++,v5.10,7-Dec-17,1619,1609,v5.8,23-Jan-17,38,36,http://doc.qt.io/qt-5/classes.html,http://doc.qt.io/qt-5/newclasses59.html#new-classes
+Symfony,PHP,v4.0.1,30-Nov-17,1899,1700,v3.4,29-May-17,113,113,https://api.symfony.com/4.0/classes.html,https://api.symfony.com/3.3/classes.html
+Tensorflow,Python,v1.4,3-Nov-17,2582,2582,v1.3,17-Aug-17,826,826,https://www.tensorflow.org/api_docs/python/,https://www.tensorflow.org/versions/r1.3/api_docs/python/

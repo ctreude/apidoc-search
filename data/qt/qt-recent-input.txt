@@ -1,0 +1,3 @@
+QAbstractAnimationClip, QAbstractClipAnimator, QAbstractClipBlendNode, QAdditiveClipBlend, QAnimationAspect, QAnimationController, QBlendedClipAnimator, QCanBusDeviceInfo, QCanBusFactoryV2, QClipAnimator, QExtrudedTextGeometry, QEnvironmentLight, QGeoPathQHelpSearchResult, QHstsPolicy, QHumidityFilter, QHumidityReading, QHumiditySensorQKeyframeAnimation, QLidFilter, QLidReading, QLidSensor, QLerpClipBlend, QLevelOfDetail, QLevelOfDetailBoundingSphere, QLevelOfDetailSwitch, QMorphTarget, QMorphingAnimation, QMetalRoughMaterial, QMemoryBarrier, QNodeCommand, QOperatingSystemVersionQQuickWebEngineScriptScaledPixmapArgument, QStaticByteArrayMatcher, QScene2D, QTextureMaterial, QTexturedMetalRoughMaterial, QVertexBlendAnimation, QWebEngineHttpRequest
+
+38 total, 36 unique
